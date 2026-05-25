@@ -34,7 +34,7 @@ from mediapipe.python.solutions import drawing_utils as mp_draw
 # ━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
 # CONFIG
 # ━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
-ESP32_IP        = "10.105.159.53"  # ← YOUR ESP32 IP
+ESP32_IP        = " "  # ← YOUR ESP32 IP
 ESP32_PORT      = 4210 
 
 # MUST be > ESP32 CMD_DEBOUNCE_MS (250ms) so every send gets through
