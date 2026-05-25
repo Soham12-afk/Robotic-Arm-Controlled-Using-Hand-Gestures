@@ -27,8 +27,8 @@ const int     CMD_DEBOUNCE_MS = 250;   // 250 < 350 → every Python send execut
 // ━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
 // WiFi CONFIG
 // ━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
-const char* ssid     = "Soham";
-const char* password = "123456789";
+const char* ssid     = " "; // WIFI/HOTSPOT NAME
+const char* password = " "; // WIFI/HOTSPOT PASSWORD
 const int   UDP_PORT = 4210;
 
 // ━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
