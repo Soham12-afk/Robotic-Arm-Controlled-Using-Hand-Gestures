@@ -2,9 +2,7 @@
 
 Control a 6-DOF robotic arm in real-time using hand gestures via webcam. No buttons, no joystick — just your hand.
 
-\<\!-- Suggested: a GIF or photo of your arm moving while you gesture \--\>
 
----
 
 **How It Works**
 
@@ -88,7 +86,7 @@ Hold your hand in a grid zone to send commands. Open hand vs. fist changes the a
 
 **Demo**
 
-\<\!-- Suggested: short GIF of the arm responding to your gestures \--\>
+
 
 ---
 
